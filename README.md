@@ -1,0 +1,1 @@
+This project is based on ECommerce-websit where anyone can buy the products throught this platfrom. it is a user friendly platfrom, and can ascess all the type of payments example credit card, upi etc. 
